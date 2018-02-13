@@ -96,7 +96,7 @@ To get the value as an DataType and not a Location, use the following functions:
 
 For Further Implementation, see the [Test.cpp](Source/Test.cpp) file.
 
-_Test.cpp soon to be updates showing full functionality._
+_Test.cpp soon to be updated showing full functionality._
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
