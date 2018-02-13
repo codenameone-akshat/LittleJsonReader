@@ -1,2 +1,2 @@
 # LittleJsonReader
-A simplistic and Json Reader in C++.
+A simplistic Json Reader in C++.
