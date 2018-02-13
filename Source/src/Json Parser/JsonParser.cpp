@@ -3,7 +3,7 @@
 
 void JsonReader::JsonDocument::LoadDocument(std::string fileName)
 {
-	std::ifstream file("Resource/" + fileName, std::ios::in);
+	std::ifstream file(fileName, std::ios::in);
 
 	char ch;
 	while (file.get(ch))
